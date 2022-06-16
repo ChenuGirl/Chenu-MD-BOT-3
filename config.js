@@ -37,13 +37,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','918188019676']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
+global.owner = ['94789864930','94764306687']
+global.premium = ['94789864930','94788780106']
+global.botname = '☺️Chenumi💞'
+global.ownername = '😎Rιʋιʂԋαɳ♥️'
+global.group1 = 'https://chat.whatsapp.com/Gc4Amg3Xm2v7OhZMNcsbLx'
+global.group2 = 'https://chat.whatsapp.com/KmW0yoI3fvADWcMs1xWbIL'
+global.packname = '☺️Chenu Girl💞'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -58,7 +58,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = '☺️Chenu Girl💞'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
